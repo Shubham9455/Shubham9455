@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham9455&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham9455" /> </p>
 - 🔰 Currently learning DSA, Flutter and React<br>
+- 🔰 Interested in Computer Vision
 
 <hr>
 
