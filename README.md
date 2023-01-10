@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=Hi+I+am+Shubham+Jaiswal;I'm+currently+learning+Flutter;and+React;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=Hi+I+am+Shubham+Jaiswal;)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham9455&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham9455" /> </p>
 - 🔰 Currently learning DSA, Flutter and MERN<br>
