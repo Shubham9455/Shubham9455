@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=Hi+I+am+Shubham+Jaiswal;)
 
+
+[![@shubham9455's Holopin board](https://holopin.io/api/user/board?user=shubham9455)](https://holopin.io/@shubham9455)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham9455&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham9455" /> </p>
 - 🔰 Currently learning DSA, Flutter and MERN<br>
 - 🔰 Interested in Computer Vision
@@ -25,6 +28,5 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <hr/>
 
-[![@shubham9455's Holopin board](https://holopin.io/api/user/board?user=shubham9455)](https://holopin.io/@shubham9455)
 
 
