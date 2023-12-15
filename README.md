@@ -7,10 +7,14 @@
 - 🔰 Currently learning DSA, Flutter and MERN<br>
 - 🔰 Interested in Computer Vision
 
-<hr>
+<hr/>
 
-<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><img height=300 src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
-<hr>
+<img height=150 src="https://github.com/Shubham9455/Shubham9455/assets/95691442/8ac8193c-f89e-4036-997b-0d547ca715fa"/>
+
+<div>
+<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" />
+<img height=300 src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
+</div>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Shubham9455&theme=dark" /> -->
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham9455&theme=dark" /> -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham9455&theme=vision-friendly-dark" />
@@ -25,8 +29,9 @@
 </p>
 
 ## 🧰 Languages and Tools:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mongodb,django,nodejs,express,next,react,dart,flutter,bootstrap,tailwind,ts,git,python,numpy,pandas&perline=9)](https://skillicons.dev)
 <hr/>
+
 
 
 
