@@ -29,7 +29,7 @@
 </p>
 
 ## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mongodb,django,nodejs,express,next,react,dart,flutter,bootstrap,tailwind,ts,git,python,numpy,pandas&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mongodb,django,nodejs,express,next,react,postgres,mysql,redux,dart,flutter,bootstrap,tailwind,ts,git,python,linux,&perline=11)](https://skillicons.dev)
 <hr/>
 
 
