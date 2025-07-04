@@ -28,9 +28,22 @@
   <a href="mailto:shubham.jaiswal.ece21@itbhu.ac.in"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mongodb,django,nodejs,express,next,react,postgres,mysql,redux,dart,flutter,bootstrap,tailwind,ts,git,python,linux,&perline=11)](https://skillicons.dev)
-<hr/>
+## 🧰 Languages and Tools
+
+### Languages  
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,javascript,ts,dart)](https://skillicons.dev)
+
+### Frontend  
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,next,redux,flutter,bootstrap,tailwind)](https://skillicons.dev)
+
+### Backend  
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi)](https://skillicons.dev)
+
+### Databases  
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+
+### Tools & Platforms  
+[![Tools](https://skillicons.dev/icons?i=git,linux,postman)](https://skillicons.dev)
 
 
 
