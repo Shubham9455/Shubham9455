@@ -1,24 +1,104 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=Hi+I+am+Shubham+Jaiswal;)
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&center=true&vCenter=true&lines=Hi+👋+I'm+Shubham+Jaiswal;Software+Engineer+at+Samsung+R%26D;Codeforces+Expert;Building+AI+Systems)
 
-[![@shubham9455's Holopin board](https://holopin.io/api/user/board?user=shubham9455)](https://holopin.io/@shubham9455)
+<img src="https://komarev.com/ghpvc/?username=Shubham9455&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham9455&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham9455" /> </p>
-- 🔰 Currently learning DSA, Flutter and MERN<br>
-- 🔰 Interested in Computer Vision
-
-<hr/>
-
-<img height=150 src="https://github.com/Shubham9455/Shubham9455/assets/95691442/8ac8193c-f89e-4036-997b-0d547ca715fa"/>
-
-<div>
-<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" />
-<img height=300 src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
 </div>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Shubham9455&theme=dark" /> -->
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham9455&theme=dark" /> -->
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham9455&theme=vision-friendly-dark" />
 
+---
+
+# 💫 About Me
+
+💻 Software Engineer at **Samsung R&D Institute India (SRI-D)**
+
+📺 Building production systems for **Samsung TV Plus**, a platform serving **88M+ monthly active users**
+
+🎓 B.Tech in Electronics Engineering from **IIT (BHU) Varanasi** — CGPA: **8.97**
+
+⚡ **Codeforces Expert** *(Max Rating: 1641)* with **800+ problems solved**
+
+🤖 Passionate about:
+
+- AI Systems
+- RAG Pipelines
+- Semantic Search
+- Backend Engineering
+- Scalable Applications
+- Computer Vision
+
+---
+
+# 🚀 Featured Projects
+
+### 🍽️ FoodGPT — AI Restaurant Recommendation System
+
+- Built RAG pipeline over **500MB+ Zomato dataset**
+- Used **FAISS + Sentence Transformers + Ollama**
+- Implemented semantic retrieval and grounded LLM responses
+- Built ChatGPT-style streaming interface
+
+### 📈 Crypto Price Alert System
+
+- FastAPI + PostgreSQL backend
+- JWT authentication + RBAC
+- Telegram-based alert engine
+- Supports **50+ cryptocurrencies**
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux,angular)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask)](https://skillicons.dev)
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
+
+### AI / ML
+
+[![AI](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+**RAG • FAISS • NLP • Sentence Embeddings • Ollama • OpenAI APIs • Prompt Engineering**
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,linux,postman,docker,vscode)](https://skillicons.dev)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham9455&theme=vision-friendly-dark"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Codeforces Expert — Max Rating **1641**
+
+🏅 Solved **800+ DSA problems**
+
+🏅 Global Rank **511** — Google Code Jam Farewell Round A
+
+---
+
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://codeforces.com/profile/__Shubham__Jaiswal__"><img src="https://img.shields.io/badge/CodeForces-grey?style=for-the-badge&logo=codeforces&logoColor=white"></a> 
@@ -28,22 +108,23 @@
   <a href="mailto:shubham.jaiswal.ece21@itbhu.ac.in"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## 🧰 Languages and Tools
+---
 
-### Languages  
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,javascript,ts,dart)](https://skillicons.dev)
+<div align="center">
 
-### Frontend  
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,next,redux,flutter,bootstrap,tailwind)](https://skillicons.dev)
+### ⭐ Thanks for visiting my profile ⭐
 
-### Backend  
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi)](https://skillicons.dev)
+</div>
 
-### Databases  
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+[![@shubham9455's Holopin board](https://holopin.io/api/user/board?user=shubham9455)](https://holopin.io/@shubham9455)
 
-### Tools & Platforms  
-[![Tools](https://skillicons.dev/icons?i=git,linux,postman)](https://skillicons.dev)
+
+<hr/>
+
+<img height=150 src="https://github.com/Shubham9455/Shubham9455/assets/95691442/8ac8193c-f89e-4036-997b-0d547ca715fa"/>
+
+<div>
+
 
 
 
